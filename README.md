@@ -8,7 +8,7 @@
 > 
 > Semestre: 2026.1
 
-## 📌 Sobre o Trabalho
+## Sobre o Trabalho
 
 ### Introdução
 
@@ -24,7 +24,7 @@ Este projeto inclui:
 - Cálculo dinâmico do **Health Index (Índice de Saúde)** dos equipamentos de comunicação.
 - Construção de painel gerencial e interface visual utilizando **Streamlit**.
 
-### 🚀 Resultados Alcançados
+### Resultados Alcançados
 
 - **Escalabilidade:** Processamento validado em mais de 42.480 eventos anômalos distribuídos em 217 ativos de subestações.
 - **Precisão:** Obtenção de *Recall* de 100% na detecção sobre o conjunto de equipamentos com falha real registrada nos laudos de campo.
