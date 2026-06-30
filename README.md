@@ -38,7 +38,7 @@ O produto final da pesquisa é a interface interativa **TAIS** (Tecnologia de An
 <img src="dashboard.png" align="center" width="700" alt="Painel Gerencial TAIS"/>
 
 
-## Equipe 6 - Colaboradores
+## Colaborador
 
 <table>
   <tr>
