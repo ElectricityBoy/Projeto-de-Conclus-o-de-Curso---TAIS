@@ -1,8 +1,4 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA3cW1iZjJtZzVxcWJjZThoZzF3bHVkcTNtbHNvNnpwZnQ5bHVkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"/>
-</p>
-
-# Detecção de Anomalias para Manutenção Preditiva em Telecomunicações no Setor Elétrico 📡⚡
+# Detecção de anomalias em redes de telecomunicação para Smartgrids baseada em Machine Learning 📡⚡
 
 > Universidade Federal da Bahia (UFBA)
 > 
@@ -54,4 +50,4 @@ O produto final da pesquisa é a interface interativa **TAIS** (Tecnologia de An
       </a>
     </td>
   </tr>
-</table>
+</table>s
